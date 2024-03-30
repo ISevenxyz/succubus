@@ -2,9 +2,9 @@
     "key":"This Key no worky :(",
 
 	"mysql":{
-		"address":"127.0.0.1:3306",
-		"username":"bleach",
-		"password":"password",
+		"address":"45.32.104.252:22",
+		"username":"root",
+		"password":"root",
 		"table":"succubus"
 	},
 
